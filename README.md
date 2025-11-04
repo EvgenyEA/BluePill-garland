@@ -4,7 +4,7 @@
 ![Подключение BluePill](https://github.com/EvgenyEA/BluePill-garland/blob/main/BluePill_connection.png)
  
 ## Подключение гирлянды
-Зашейте в STM32F103 BluePill файл STM32F103_BluPill_bootloader.bin. Прошивка включает DFU загрзучик USB и программу для управления адресными светодиодами. После подключения к ПК через USB плата определится как виртуальный COM-порт. Запустите на ПК терминал blue_pill_terminal.exe, подключителсь к порту. 
+Зашейте в STM32F103 BluePill файл STM32F103_BluPill_bootloader.bin. Прошивка включает DFU загрузчик USB и программу для управления адресными светодиодами. После подключения к ПК через USB плата определится как виртуальный COM-порт. Запустите на ПК терминал blue_pill_terminal.exe, подключитесь к порту
 
 ![Подключение BluePill](https://github.com/EvgenyEA/BluePill-garland/blob/main/BluePill_terminal.jpg)
 
